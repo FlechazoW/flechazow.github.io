@@ -104,4 +104,4 @@ theme: cactus
 deploy:
   type: 'git'
   repo: https://github.com/FlechazoW/flechazow.github.io
-  branch: master
+  branch: main
